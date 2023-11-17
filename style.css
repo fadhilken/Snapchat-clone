@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #F5F5F5;
+}
+.container{
+	text-align: center;
+	font-size: 50px;
+	background-color: yellow;
+	box-shadow: black blur;
+	margin-top: 50px;
+	border-radius: 1cm;
+}
+.b{
+	font-size: 25px;
+
+}
+.p1{
+	margin-top: 5px;
+	font-size: 15px;
+
+}
+.user{
+	margin-top: 30px;
+	padding: 15px;
+	font-size: 12px;
+	text-align: left;
+}
+.id{
+	height: 35px;
+	width: 90vw;
+	background-color: #F5F5F5;
+	border-style: none;
+
+}
+.pass{
+	text-align: left;
+	font-size: 12px;
+	padding: 15px;
+}
+.for{
+	text-decoration: none;
+	font-size: 15px;
+	color: blue;
+}
+.sub{
+	height: 40px;
+	width: 5cm;
+	border-radius: 40px;
+	background-color: gris;
+	border-style: none;
+	margin: 15px;
+
+}
+.container2{
+	background-color: #F5F5F5;
+	height: 100px;
+	margin-top: 15px;
+
+}
+.item3{
+	text-align: center;
+	font-weight: bold;
+
+}
+.a2{color: black;
+text-decoration: none;
+}
+.footer{
+	background-color: black;
+	color: grey;
+	position: absolute;
+	top: 680px;
+	height: 70px;
+	width: 100vw;
+	
+}
